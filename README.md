@@ -1,5 +1,5 @@
-# Rexshack Gaming Version
+# Itskaaas-Lockpick
  
 # credits
-- original resouce created by : https://github.com/qbcore-redm-framework
-- convert and rework by : https://github.com/QRCore-RedM-Re
+- original resouce created by: https://github.com/qbcore-redm-framework
+- adapted by: https://github.com/itskaaas
