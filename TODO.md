@@ -1,0 +1,4 @@
+- [x] Create config.lua with lockpick item settings
+- [x] Create server/main.lua for inventory handling
+- [x] Update fxmanifest.lua with dependencies and server_script
+- [x] Modify client/main.lua to use StartLockPick function and integrate inventory checks
